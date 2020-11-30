@@ -10,6 +10,9 @@ data_by_genre.csv<br>
 data_w_genre.csv<br>
 </p>
 <p>
+<u><b>Work done by the team:</b></u>
+</p>
+<p>
 <u>Genre Classification</u><br>
 By Dhruv Sharma- genre_analysis.ipynb
 </p>
@@ -18,7 +21,7 @@ By Dhruv Sharma- genre_analysis.ipynb
 By Adithya S Oasis - genre_analysis.ipynb
 </p>
 <p>
-<u>GTopic Modelling and neural networks.</u><br>
+<u>Topic Modelling and neural networks.</u><br>
 By Abishai Ebenezer - <br>
 DataAnalyticsSpotifyProject - For getting the lyrics<br>
 LyricsProcess.ipynb<br>
