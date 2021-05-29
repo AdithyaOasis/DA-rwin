@@ -1,6 +1,7 @@
 # DA-rwin
 
-Music Analysis Data Analytics project
+Tune Analysis for music recommendation
+-Data Analytics project
 
 <p>Source:- https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks</p>
 <p>
